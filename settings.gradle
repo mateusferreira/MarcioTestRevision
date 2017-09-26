@@ -1,0 +1,1 @@
+include "MarcioTestRevision-api", "MarcioTestRevision-core", "MarcioTestRevision-ear", "MarcioTestRevision-war"
